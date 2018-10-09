@@ -1,3 +1,3 @@
-export const booleanExpressionEvaluator = (array) => {
+export const findTheOddOccurence = (array) => {
     // TO IMPLEMENT IN ANOTHER PR
 };
